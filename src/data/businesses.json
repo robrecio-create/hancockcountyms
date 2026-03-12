@@ -14,8 +14,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -36,8 +40,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -58,8 +66,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -80,8 +92,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -102,8 +118,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -124,8 +144,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -146,8 +170,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -168,8 +196,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -190,8 +222,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -212,8 +248,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -234,8 +274,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -256,8 +300,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -278,8 +326,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -300,8 +352,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -322,8 +378,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -344,8 +404,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -366,8 +430,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -388,8 +456,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -410,8 +482,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -432,8 +508,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -454,8 +534,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -476,8 +560,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -498,8 +586,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -520,8 +612,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -542,8 +638,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -564,8 +664,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -586,8 +690,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Outdoors & Recreation"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -608,8 +716,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -630,8 +742,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -652,8 +768,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -674,8 +794,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -696,8 +820,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -718,8 +846,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -740,8 +872,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -762,8 +898,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -784,8 +924,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Real Estate"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -806,8 +950,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Professional Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -828,8 +976,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -850,8 +1002,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -872,8 +1028,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -894,8 +1054,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -916,8 +1080,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Waveland"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -938,8 +1106,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Waveland"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -960,8 +1132,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Waveland"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -982,8 +1158,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Waveland"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1004,8 +1184,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Waveland"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1026,8 +1210,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Waveland"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1048,8 +1236,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Waveland"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1070,8 +1262,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Waveland"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Waveland"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1092,8 +1288,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1114,8 +1314,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1136,8 +1340,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1158,8 +1366,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Outdoors & Recreation"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1180,8 +1392,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1202,8 +1418,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1224,8 +1444,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1246,8 +1470,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1268,8 +1496,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1290,8 +1522,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Kiln"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1312,8 +1548,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Kiln"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1334,8 +1574,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Bars & Nightlife"],
-    "location": ["Kiln"],
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1356,8 +1600,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Kiln"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1378,8 +1626,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Kiln"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1400,8 +1652,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Kiln"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1422,8 +1678,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Kiln"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1444,8 +1704,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Kiln"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1466,8 +1730,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Kiln"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Kiln"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1488,8 +1756,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Pearlington"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Pearlington"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1510,8 +1782,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Pearlington"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Pearlington"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1532,8 +1808,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1554,8 +1834,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1576,8 +1860,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1598,8 +1886,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1620,8 +1912,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Diamondhead"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1642,9 +1938,1939 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Bay St. Louis"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
     "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 76,
+    "title": "Sycamore House Restaurant",
+    "slug": "sycamore-house-restaurant",
+    "status": "publish",
+    "content": "Elegant Southern-inspired cuisine in a historic 19th-century Acadian cottage on Main Street.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "210 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 469-0107",
+    "email": "",
+    "website": "https://thesycamorehouse.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 77,
+    "title": "Dan B. Murphy's Restaurant & Bar",
+    "slug": "dan-b-murphys-restaurant-bar",
+    "status": "publish",
+    "content": "Casual dining with seafood, burgers, po'boys, and live entertainment.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "109 S Beach Blvd, Bay St. Louis, MS 39520",
+    "phone": "(228) 231-1778",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 78,
+    "title": "Dragonfly Restaurant",
+    "slug": "dragonfly-restaurant",
+    "status": "publish",
+    "content": "Fresh seasonal dishes and locally sourced gifts in a charming Main Street location.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "211 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 344-3104",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 79,
+    "title": "Creole Creamery on the Bay",
+    "slug": "creole-creamery-on-the-bay",
+    "status": "publish",
+    "content": "Homemade ice cream shop featuring unique Gulf Coast-inspired flavors.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "209 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 231-1943",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 80,
+    "title": "PJ's Coffee on the Bay",
+    "slug": "pjs-coffee-on-the-bay",
+    "status": "publish",
+    "content": "Coffee shop serving specialty lattes, smoothies, and affogatos.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "207 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 231-1942",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 81,
+    "title": "Field's Steak & Oyster Bar",
+    "slug": "fields-steak-oyster-bar",
+    "status": "publish",
+    "content": "Hand-cut steaks and fresh Gulf oysters in the heart of downtown.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "111 Main St Ste A, Bay St. Louis, MS 39520",
+    "phone": "(228) 231-1972",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 82,
+    "title": "Pop Brothers Artisan Ice Pops",
+    "slug": "pop-brothers-artisan-ice-pops",
+    "status": "publish",
+    "content": "Handcrafted artisan ice pops made with fresh, natural ingredients.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "111 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 304-0024",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 83,
+    "title": "Ms. Mary's Old Town Snoballs",
+    "slug": "ms-marys-old-town-snoballs",
+    "status": "publish",
+    "content": "Classic New Orleans-style snow balls, milkshakes, and ice cream.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "203 N Second St, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-6280",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 84,
+    "title": "The Loft Wine & Spirits",
+    "slug": "the-loft-wine-spirits",
+    "status": "publish",
+    "content": "Cozy wine and cocktail bar with customizable charcuterie boards.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "108 S Beach Blvd, Bay St. Louis, MS 39520",
+    "phone": "(504) 701-0980",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 85,
+    "title": "Cosmo's Restaurant",
+    "slug": "cosmos-restaurant",
+    "status": "publish",
+    "content": "Local favorite serving creative American cuisine and Gulf Coast specialties.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "(228) 467-3533",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 86,
+    "title": "California Drawstrings",
+    "slug": "california-drawstrings",
+    "status": "publish",
+    "content": "Boutique featuring chic women's clothing made in the US from natural fibers.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "131 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 463-2124",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 87,
+    "title": "Clay Creations",
+    "slug": "clay-creations",
+    "status": "publish",
+    "content": "Artist studio creating one-of-a-kind ceramic sculptures of regional buildings.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "220 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-6347",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 88,
+    "title": "Fly Boutique",
+    "slug": "fly-boutique",
+    "status": "publish",
+    "content": "Trendy men's and women's clothing, shoes, and accessories.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "142 Blaize Ave Unit A, Bay St. Louis, MS 39520",
+    "phone": "(228) 493-1447",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 89,
+    "title": "French Potager",
+    "slug": "french-potager",
+    "status": "publish",
+    "content": "Antiques, gifts, plants, garden accessories, and full-service florist.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "213 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 364-3091",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 90,
+    "title": "Magnolia Antiques",
+    "slug": "magnolia-antiques",
+    "status": "publish",
+    "content": "3,000 square feet of collectibles including toys, tools, linens, and furniture.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "200 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-8170",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 91,
+    "title": "The Shops of Century Hall",
+    "slug": "the-shops-of-century-hall",
+    "status": "publish",
+    "content": "Thirteen unique shops offering art, fashion, and home goods under one roof.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "112 S Second St, Bay St. Louis, MS 39520",
+    "phone": "(504) 858-8574",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 92,
+    "title": "The Wedding Collection",
+    "slug": "the-wedding-collection",
+    "status": "publish",
+    "content": "Full-service bridal boutique with dresses, gifts, and wedding apparel.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "104 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 344-3212",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 93,
+    "title": "Gabo's Boutique and Gifts",
+    "slug": "gabos-boutique-and-gifts",
+    "status": "publish",
+    "content": "Women's apparel and curated gifts in a charming Main Street shop.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "153 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 304-7825",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 94,
+    "title": "Sassy Bird Interiors",
+    "slug": "sassy-bird-interiors",
+    "status": "publish",
+    "content": "Home decor and interior furnishings with a coastal Southern style.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "211 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 344-3181",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 95,
+    "title": "Bay-Tique",
+    "slug": "bay-tique",
+    "status": "publish",
+    "content": "Curated clothing and gift boutique on Main Street.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "125 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5100",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 96,
+    "title": "Social Chair",
+    "slug": "social-chair",
+    "status": "publish",
+    "content": "Local art, unique decor, funky gifts, and funny cards in an 1840s building.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "201 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-4800",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 97,
+    "title": "Sage Women's Apparel",
+    "slug": "sage-womens-apparel",
+    "status": "publish",
+    "content": "Women's clothing, jewelry, and gifts with a coastal Southern flair.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "124 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 98,
+    "title": "Biz-zee Bee",
+    "slug": "biz-zee-bee",
+    "status": "publish",
+    "content": "Children's clothing, toys, and monogramming for the little ones.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "111B Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-2900",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 99,
+    "title": "Cafe BoneJour",
+    "slug": "cafe-bonejour",
+    "status": "publish",
+    "content": "Healthy pet food, nutrition counseling, natural treats, and pet products.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "146 Blaize Ave, Bay St. Louis, MS 39520",
+    "phone": "(228) 364-2685",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 100,
+    "title": "Worth Repeating",
+    "slug": "worth-repeating",
+    "status": "publish",
+    "content": "Consignment shop with quality furniture and home goods at great prices.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1140 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 270-1055",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 101,
+    "title": "B.E.E. by the Bay Fine Art Gallery",
+    "slug": "bee-by-the-bay-fine-art-gallery",
+    "status": "publish",
+    "content": "Fine art gallery featuring original works by Gulf Coast artists.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "131A Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-3600",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 102,
+    "title": "Denise Hopkins Fine Art",
+    "slug": "denise-hopkins-fine-art",
+    "status": "publish",
+    "content": "Gallery showcasing original paintings and fine art by Denise Hopkins.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "(228) 596-0300",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 103,
+    "title": "The 100 Men Hall",
+    "slug": "the-100-men-hall",
+    "status": "publish",
+    "content": "Historic African American cultural venue and music hall on the Mississippi Blues Trail.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "303 Union St, Bay St. Louis, MS 39520",
+    "phone": "(228) 596-0700",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 104,
+    "title": "Bayside Baptist Church",
+    "slug": "bayside-baptist-church",
+    "status": "publish",
+    "content": "Community Baptist church with Sunday worship and fellowship.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "7547 Hancock Dr, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0500",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 105,
+    "title": "Central Bible Church",
+    "slug": "central-bible-church",
+    "status": "publish",
+    "content": "Bible-centered church on Highway 90 with Sunday services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1203 US-90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0529",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 106,
+    "title": "Church of the King",
+    "slug": "church-of-the-king",
+    "status": "publish",
+    "content": "Spirit-filled church community serving Bay St. Louis.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "317 Reese St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-8375",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 107,
+    "title": "First Baptist Church BSL",
+    "slug": "first-baptist-church-bsl",
+    "status": "publish",
+    "content": "Historic Baptist church on Main Street serving the community since the 1800s.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "141 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-4005",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 108,
+    "title": "Lagniappe Presbyterian Church",
+    "slug": "lagniappe-presbyterian-church",
+    "status": "publish",
+    "content": "Presbyterian church offering a little something extra \u2014 lagniappe.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "203 Central Ave, Bay St. Louis, MS 39520",
+    "phone": "(228) 234-7964",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 109,
+    "title": "Main Street United Methodist",
+    "slug": "main-street-united-methodist",
+    "status": "publish",
+    "content": "Historic Methodist church in the heart of downtown Bay St. Louis.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "162 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-4538",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 110,
+    "title": "Old Town Presbyterian Church",
+    "slug": "old-town-presbyterian-church",
+    "status": "publish",
+    "content": "Historic Presbyterian church on Ullman Avenue.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "114 Ullman Ave, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-3921",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 111,
+    "title": "St. Rose De Lima Catholic Church",
+    "slug": "st-rose-de-lima-catholic-church",
+    "status": "publish",
+    "content": "Catholic parish serving Bay St. Louis with Mass and sacraments.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "301 S Necaise Ave, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-7347",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 112,
+    "title": "St. Ann Catholic Church",
+    "slug": "st-ann-catholic-church",
+    "status": "publish",
+    "content": "Catholic church serving the Lower Bay Road community.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "5858 Lower Bay Rd, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5128",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 113,
+    "title": "Coastal Family Health Center BSL",
+    "slug": "coastal-family-health-center-bsl",
+    "status": "publish",
+    "content": "Federally qualified health center with pediatrics, internal medicine, OB/GYN, dental, and pharmacy.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "(228) 467-9404",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 114,
+    "title": "Hancock OMS",
+    "slug": "hancock-oms",
+    "status": "publish",
+    "content": "Oral and maxillofacial surgery services including extractions and implants.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "(228) 467-9370",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 115,
+    "title": "Latter & Blum Real Estate BSL",
+    "slug": "latter-blum-real-estate-bsl",
+    "status": "publish",
+    "content": "Full-service Gulf Coast real estate brokerage.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0244",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 116,
+    "title": "The Peoples Bank BSL",
+    "slug": "the-peoples-bank-bsl",
+    "status": "publish",
+    "content": "Community bank serving Hancock County with personal and business banking.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "(228) 467-9278",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 117,
+    "title": "The Pearl Hotel BSL",
+    "slug": "the-pearl-hotel-bsl",
+    "status": "publish",
+    "content": "Boutique downtown hotel with the Thorny Oyster restaurant and event spaces.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "104 N Beach Blvd, Bay St. Louis, MS 39520",
+    "phone": "(228) 688-0401",
+    "email": "",
+    "website": "https://www.pearlbsl.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 118,
+    "title": "Dat Kitchen Too Waveland",
+    "slug": "dat-kitchen-too-waveland",
+    "status": "publish",
+    "content": "Southern-style breakfast, seafood, and comfort food on Highway 90.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "714 Hwy 90, Waveland, MS 39576",
+    "phone": "(228) 467-7242",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 119,
+    "title": "The Lunch Box",
+    "slug": "the-lunch-box",
+    "status": "publish",
+    "content": "Casual Southern sandwich shop and lunch spot on Highway 90.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "210 Highway 90 Ste A, Waveland, MS 39576",
+    "phone": "(228) 466-0014",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 120,
+    "title": "Rob's Rum Kitchen Waveland",
+    "slug": "robs-rum-kitchen-waveland",
+    "status": "publish",
+    "content": "Caribbean-inspired dishes and rum cocktails with island vibes.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "324 Hwy 90, Waveland, MS 39576",
+    "phone": "(228) 467-9099",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 121,
+    "title": "Tony's Family Restaurant Waveland",
+    "slug": "tonys-family-restaurant-waveland",
+    "status": "publish",
+    "content": "Family dining with burgers, sandwiches, and seafood on Highway 90.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "720 Hwy 90, Waveland, MS 39576",
+    "phone": "(228) 466-5151",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 122,
+    "title": "S & B Sports Bar",
+    "slug": "s-b-sports-bar",
+    "status": "publish",
+    "content": "Neighborhood sports bar with bar food, seafood, and cold drinks.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "814 Sears Ave, Waveland, MS 39576",
+    "phone": "(228) 467-4770",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 123,
+    "title": "Waveland Candle Company",
+    "slug": "waveland-candle-company",
+    "status": "publish",
+    "content": "Specialty candles handcrafted on the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1804 Nicholson Ave, Waveland, MS 39576",
+    "phone": "(228) 220-4716",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 124,
+    "title": "Christian Life Church",
+    "slug": "christian-life-church",
+    "status": "publish",
+    "content": "Community church with Sunday worship and fellowship programs.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1807 Waveland Ave, Waveland, MS 39576",
+    "phone": "(228) 466-3880",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 125,
+    "title": "Lutheran Church of the Pines",
+    "slug": "lutheran-church-of-the-pines",
+    "status": "publish",
+    "content": "Lutheran church serving the Waveland community with worship services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "309 Hwy 90, Waveland, MS 39576",
+    "phone": "(228) 467-6771",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 126,
+    "title": "St. Clare Catholic Church",
+    "slug": "st-clare-catholic-church",
+    "status": "publish",
+    "content": "Catholic parish serving Waveland with Mass, sacraments, and community programs.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "236 S Beach Blvd, Waveland, MS 39576",
+    "phone": "(228) 467-9275",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 127,
+    "title": "Waveland United Methodist",
+    "slug": "waveland-united-methodist",
+    "status": "publish",
+    "content": "Methodist church providing worship, fellowship, and community outreach.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "314 Vacation Ln, Waveland, MS 39576",
+    "phone": "(228) 467-8047",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 128,
+    "title": "First Assembly of God Waveland",
+    "slug": "first-assembly-of-god-waveland",
+    "status": "publish",
+    "content": "Pentecostal church with Sunday worship and midweek Bible study.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1912 Arnold St, Waveland, MS 39576",
+    "phone": "(228) 467-7667",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 129,
+    "title": "Cocktail Wine and Liquor",
+    "slug": "cocktail-wine-and-liquor",
+    "status": "publish",
+    "content": "Wine, spirits, and beer retailer on Highway 90.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "942A Highway 90, Waveland, MS 39576",
+    "phone": "(228) 467-2100",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 130,
+    "title": "Walmart Supercenter - Waveland",
+    "slug": "walmart-supercenter-waveland",
+    "status": "publish",
+    "content": "Full-service supercenter with groceries, pharmacy, and household goods.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "460 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 466-4600",
+    "email": "",
+    "website": "https://www.walmart.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 131,
+    "title": "Dan's PoBoys & Seafood",
+    "slug": "dans-poboys-seafood",
+    "status": "publish",
+    "content": "Quick-service po'boys, seafood, and burgers in Diamondhead.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "4405 E Aloha Dr Ste H, Diamondhead, MS 39525",
+    "phone": "(228) 254-5350",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 132,
+    "title": "Dempsey's Seafood & Steak Diamondhead",
+    "slug": "dempseys-seafood-steak-diamondhead",
+    "status": "publish",
+    "content": "Fresh Gulf seafood and hand-cut steaks in a family atmosphere.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "6208 Kiln Delisle Rd, Diamondhead, MS 39525",
+    "phone": "(228) 255-2043",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 133,
+    "title": "Uncle Joe's Pizza",
+    "slug": "uncle-joes-pizza",
+    "status": "publish",
+    "content": "Family pizzeria serving pizza, wings, and Italian favorites.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "16829 Kapalama Dr, Diamondhead, MS 39525",
+    "phone": "(228) 586-6076",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 134,
+    "title": "Red Zone Sports Bar",
+    "slug": "red-zone-sports-bar",
+    "status": "publish",
+    "content": "Sports bar with bar food, sandwiches, and big-screen games.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "101 Live Oak Dr, Diamondhead, MS 39525",
+    "phone": "(228) 586-0400",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 135,
+    "title": "Rouse's Market - Diamondhead",
+    "slug": "rouses-market-diamondhead",
+    "status": "publish",
+    "content": "Full-service grocery store with deli, bakery, and fresh produce.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "4407 E Aloha Dr, Diamondhead, MS 39525",
+    "phone": "(228) 255-6700",
+    "email": "",
+    "website": "https://www.rouses.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 136,
+    "title": "Aloha Wine and Spirits",
+    "slug": "aloha-wine-and-spirits",
+    "status": "publish",
+    "content": "Wine, spirits, and craft beer retailer in Diamondhead.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "4405 E Aloha Dr, Diamondhead, MS 39525",
+    "phone": "(228) 255-2400",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 137,
+    "title": "Diamondhead Community Church",
+    "slug": "diamondhead-community-church",
+    "status": "publish",
+    "content": "Presbyterian community church with Sunday worship and Bible study.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "5301 Diamondhead Circle, Diamondhead, MS 39525",
+    "phone": "(228) 255-5556",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 138,
+    "title": "Faith Assembly of God",
+    "slug": "faith-assembly-of-god",
+    "status": "publish",
+    "content": "Pentecostal church on Highway 43 with Sunday and Wednesday services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "18701 MS-43, Kiln, MS 39556",
+    "phone": "(228) 255-2567",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 139,
+    "title": "Victory Baptist Church Kiln",
+    "slug": "victory-baptist-church-kiln",
+    "status": "publish",
+    "content": "Baptist church serving the Kiln community with worship and outreach.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "25310 Hwy 603, Kiln, MS 39556",
+    "phone": "(228) 255-1353",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 140,
+    "title": "Wolf Creek Baptist Church",
+    "slug": "wolf-creek-baptist-church",
+    "status": "publish",
+    "content": "Rural Baptist church on Wolf Creek Road with Sunday services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "26041 Wolf Creek Rd, Kiln, MS 39556",
+    "phone": "(228) 255-6633",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 141,
+    "title": "Kiln Chevron",
+    "slug": "kiln-chevron",
+    "status": "publish",
+    "content": "Convenience store and gas station open daily from 4 AM to 11 PM.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Kiln, MS 39556",
+    "phone": "(228) 255-2200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 142,
+    "title": "First Southern Baptist Church Pearlington",
+    "slug": "first-southern-baptist-church-pearlington",
+    "status": "publish",
+    "content": "Baptist church serving the Pearlington community.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "5487 MS 604, Pearlington, MS 39572",
+    "phone": "(228) 533-7313",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Pearlington"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 143,
+    "title": "Greater Mount Zion AME Church",
+    "slug": "greater-mount-zion-ame-church",
+    "status": "publish",
+    "content": "African Methodist Episcopal church with Sunday worship.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "16223 3rd St, Pearlington, MS 39572",
+    "phone": "(228) 533-9976",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Pearlington"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 144,
+    "title": "Holmes Chapel United Methodist",
+    "slug": "holmes-chapel-united-methodist",
+    "status": "publish",
+    "content": "United Methodist church providing community worship and outreach.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "5404 Hwy 604, Pearlington, MS 39572",
+    "phone": "(228) 533-0780",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Pearlington"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
