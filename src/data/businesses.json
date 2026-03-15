@@ -2848,7 +2848,7 @@
     "title": "Lagniappe Presbyterian Church",
     "slug": "lagniappe-presbyterian-church",
     "status": "publish",
-    "content": "Presbyterian church offering a little something extra — lagniappe.",
+    "content": "Presbyterian church offering a little something extra \u2014 lagniappe.",
     "excerpt": "",
     "post_date": "2026-03-12 00:00:00",
     "address": "203 Central Ave, Bay St. Louis, MS 39520",
@@ -4424,7 +4424,7 @@
     "title": "Keller Williams MS Gulf Coast - Bay St. Louis",
     "slug": "keller-williams-ms-gulf-coast-bay-st-louis",
     "status": "publish",
-    "content": "Keller Williams Mississippi Gulf Coast – Bay St. Louis is a full-service real estate brokerage serving Hancock County and the surrounding Gulf Coast communities. With experienced agents specializing in residential, commercial, and waterfront properties, it's one of the leading real estate firms serving the Bay St. Louis and Waveland markets.",
+    "content": "Keller Williams Mississippi Gulf Coast \u2013 Bay St. Louis is a full-service real estate brokerage serving Hancock County and the surrounding Gulf Coast communities. With experienced agents specializing in residential, commercial, and waterfront properties, it's one of the leading real estate firms serving the Bay St. Louis and Waveland markets.",
     "excerpt": "",
     "post_date": "2026-03-12",
     "address": "105 Old Spanish Trail, Bay St. Louis, MS 39520",
@@ -5123,6 +5123,1826 @@
     ],
     "location": [
       "Pearlington"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 191,
+    "title": "Haas & Haas Attorneys",
+    "slug": "haas-haas-attorneys",
+    "status": "publish",
+    "content": "Established in 1957, serving Hancock County for over 60 years. Practice areas include estate planning, real estate, corporate law, and discrimination cases.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "201 N 2nd St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-6574",
+    "email": "",
+    "website": "https://www.haas-and-haas.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 192,
+    "title": "Law Office of Brehm T. Bell",
+    "slug": "law-office-of-brehm-t-bell",
+    "status": "publish",
+    "content": "Personal injury attorney with over 30 years of experience handling accident and insurance claims.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "544 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0006",
+    "email": "",
+    "website": "https://www.brehmbell.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 193,
+    "title": "Cosmich Simmons & Brown, PLLC",
+    "slug": "cosmich-simmons-brown-pllc",
+    "status": "publish",
+    "content": "Civil litigation firm focusing on toxic tort defense, commercial litigation, and product liability.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "544 Main Street, Bay St. Louis, MS 39520",
+    "phone": "(601) 863-2100",
+    "email": "",
+    "website": "https://www.cs-law.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 194,
+    "title": "Law Office of Becky Farrell, PLLC",
+    "slug": "law-office-of-becky-farrell-pllc",
+    "status": "publish",
+    "content": "Attorney practicing personal injury, business law, criminal defense, family law, and estate planning.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "125 Main Street, 2nd Floor, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0177",
+    "email": "",
+    "website": "https://www.beckyfarrelllaw.net/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 195,
+    "title": "Bridgeway Insurance Agency",
+    "slug": "bridgeway-insurance-agency",
+    "status": "publish",
+    "content": "Independent insurance agency offering auto, home, commercial, trucking, life, and specialty business insurance.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "122 Court Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0085",
+    "email": "",
+    "website": "https://www.bridgewayins.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 196,
+    "title": "Raymond James Financial - Patrick Martinez",
+    "slug": "raymond-james-financial-patrick-martinez",
+    "status": "publish",
+    "content": "Financial advisor specializing in portfolio management, retirement planning, and wealth preservation.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "837 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-9888",
+    "email": "",
+    "website": "https://www.raymondjames.com/patrickmartinez/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 197,
+    "title": "Mayo's Air Conditioning & Heating",
+    "slug": "mayos-air-conditioning-heating",
+    "status": "publish",
+    "content": "Local HVAC company in business since 1989. Authorized Trane dealer serving Bay St. Louis, Waveland, Diamondhead, and Kiln.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "509 Ulman Avenue, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5975",
+    "email": "",
+    "website": "https://www.mayocomfort.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 198,
+    "title": "Diamondhead Heating, Cooling, Electrical & Plumbing",
+    "slug": "diamondhead-heating-cooling-electrical-plumbing",
+    "status": "publish",
+    "content": "HVAC, electrical, and plumbing services. BBB A+ rated and open 24 hours for emergency service.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "3536 Loulu Pl, Diamondhead, MS 39525",
+    "phone": "(228) 255-0463",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 199,
+    "title": "Dorris Electric Service, LLC",
+    "slug": "dorris-electric-service-llc",
+    "status": "publish",
+    "content": "Full-service electrical contracting since 2004. Licensed and insured master electrician.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "541 Main Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 216-4698",
+    "email": "",
+    "website": "https://www.dorriselectric.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 200,
+    "title": "Bay Roofing LLC",
+    "slug": "bay-roofing-llc",
+    "status": "publish",
+    "content": "GAF Certified roofing contractor offering roof repair and replacement.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "606 Athletic Dr, Bay St. Louis, MS 39520",
+    "phone": "(228) 861-1705",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 201,
+    "title": "Frontline Roofing Gulf Coast",
+    "slug": "frontline-roofing-gulf-coast",
+    "status": "publish",
+    "content": "Veteran-owned roofing company specializing in storm damage repairs and insurance claims.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "830 Mohonua Pl, Diamondhead, MS 39525",
+    "phone": "(601) 436-6970",
+    "email": "",
+    "website": "https://www.gcfroofs.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 202,
+    "title": "Thornhill Construction",
+    "slug": "thornhill-construction",
+    "status": "publish",
+    "content": "Custom home builder specializing in residential construction on the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "703-A Dunbar Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 424-7773",
+    "email": "",
+    "website": "https://www.thornhill-construction.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 203,
+    "title": "LSP Home Services",
+    "slug": "lsp-home-services",
+    "status": "publish",
+    "content": "Handyman, remodeling, painting, and pressure washing services since 2005.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "121 US Route 90, Waveland, MS 39576",
+    "phone": "(228) 236-5365",
+    "email": "",
+    "website": "https://www.lsphomeservices.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 204,
+    "title": "Mayley's Pest Control",
+    "slug": "mayleys-pest-control",
+    "status": "publish",
+    "content": "Family-run pest, rodent, termite, and wildlife control with over 13 years on the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "414 Hwy 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 380-0295",
+    "email": "",
+    "website": "https://www.mayleyspestcontrol.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 205,
+    "title": "Coldwell Banker Alfonso Realty - Bay St. Louis",
+    "slug": "coldwell-banker-alfonso-realty-bay-st-louis",
+    "status": "publish",
+    "content": "Established in 1958. Full-service real estate including residential, commercial, and rentals.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "1188 Hwy 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0244",
+    "email": "",
+    "website": "https://www.alfonso.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 206,
+    "title": "Coldwell Banker Alfonso Realty - Diamondhead",
+    "slug": "coldwell-banker-alfonso-realty-diamondhead",
+    "status": "publish",
+    "content": "Branch office serving Diamondhead and surrounding Hancock County.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4300 Gex Rd, Diamondhead, MS 39525",
+    "phone": "(228) 255-3550",
+    "email": "",
+    "website": "https://www.alfonso.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 207,
+    "title": "John McDonald Realty",
+    "slug": "john-mcdonald-realty",
+    "status": "publish",
+    "content": "Full-service real estate firm serving Hancock County since 1935.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "117 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5500",
+    "email": "",
+    "website": "https://www.johnmcdonaldrealty.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 208,
+    "title": "Ashman-Mollere Realty",
+    "slug": "ashman-mollere-realty",
+    "status": "publish",
+    "content": "Over 90 years in business with real estate sales, vacation rentals, and property management.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "418 US-90, Waveland, MS 39576",
+    "phone": "(228) 467-5454",
+    "email": "",
+    "website": "https://www.ashman-mollere.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 209,
+    "title": "HL Raymond Properties",
+    "slug": "hl-raymond-properties",
+    "status": "publish",
+    "content": "Top-rated real estate agency led by broker Holly Lemoine-Raymond.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "118 N Beach Blvd, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-6643",
+    "email": "",
+    "website": "https://www.hlraymondproperties.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 210,
+    "title": "RE/MAX Coast Delta Realty",
+    "slug": "remax-coast-delta-realty",
+    "status": "publish",
+    "content": "In Mississippi real estate since 1984 with award-winning agents.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "5400 Indian Hill Dr, Diamondhead, MS 39525",
+    "phone": "(228) 255-2600",
+    "email": "",
+    "website": "https://www.coastdeltarealty.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 211,
+    "title": "EXIT Coastal Gateway Realty",
+    "slug": "exit-coastal-gateway-realty",
+    "status": "publish",
+    "content": "Independently owned brokerage serving the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4405 E Aloha Drive, Suite F, Diamondhead, MS 39525",
+    "phone": "(228) 206-1556",
+    "email": "",
+    "website": "https://www.exitcoastalgatewayrealty.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 212,
+    "title": "Bayou Automotive",
+    "slug": "bayou-automotive",
+    "status": "publish",
+    "content": "Family-owned shop offering oil changes, brake service, A/C repair, engine repair, and alignments.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "463 US-90, Waveland, MS 39576",
+    "phone": "(228) 467-9144",
+    "email": "",
+    "website": "https://www.bayoumotorsrepair.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 213,
+    "title": "Fred's Transmission & Auto Repair",
+    "slug": "freds-transmission-auto-repair",
+    "status": "publish",
+    "content": "General auto repair and transmission specialist.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4097 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-2088",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 214,
+    "title": "Main Street Machine",
+    "slug": "main-street-machine",
+    "status": "publish",
+    "content": "Auto repair shop in Old Town Bay St. Louis.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "526 1/2 Main Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 245-9979",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 215,
+    "title": "In And Out Tire And Auto Service",
+    "slug": "in-and-out-tire-and-auto-service",
+    "status": "publish",
+    "content": "Oil changes, tire service and repair, and general auto maintenance.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "16480 Mississippi 603, Kiln, MS 39556",
+    "phone": "(228) 918-8990",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 216,
+    "title": "Advanced Collision Service",
+    "slug": "advanced-collision-service",
+    "status": "publish",
+    "content": "Auto body and collision repair shop.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "1203 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-0091",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 217,
+    "title": "All Star Auto Center",
+    "slug": "all-star-auto-center",
+    "status": "publish",
+    "content": "Auto body and repair center.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "539 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 466-4861",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 218,
+    "title": "Premier Ford of Waveland",
+    "slug": "premier-ford-of-waveland",
+    "status": "publish",
+    "content": "New and used Ford vehicle dealership with service department.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "105 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 467-9005",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 219,
+    "title": "Delta World Tire",
+    "slug": "delta-world-tire",
+    "status": "publish",
+    "content": "Tire sales, installation, and auto services.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "218 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 467-2222",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 220,
+    "title": "Kirk's Wheel & Tire Pros",
+    "slug": "kirks-wheel-tire-pros",
+    "status": "publish",
+    "content": "Tire shop and wheel service center.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "2216 Kiln-Waveland Cutoff, Waveland, MS 39576",
+    "phone": "(228) 467-4720",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 221,
+    "title": "The Mane Salon",
+    "slug": "the-mane-salon",
+    "status": "publish",
+    "content": "Full-service hair salon in Old Town Bay St. Louis.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "212 Main Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-2844",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 222,
+    "title": "Cottage Hair Studio",
+    "slug": "cottage-hair-studio",
+    "status": "publish",
+    "content": "Hair salon in Diamondhead.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4370 Leisure Time Dr, Diamondhead, MS 39525",
+    "phone": "(228) 363-0274",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 223,
+    "title": "Donna's Hair Bou' Cou'",
+    "slug": "donnas-hair-bou-cou",
+    "status": "publish",
+    "content": "Full-service hair salon.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "5439 W Aloha Dr, Diamondhead, MS 39525",
+    "phone": "(228) 586-6886",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 224,
+    "title": "Bay-Wave Barbershop",
+    "slug": "bay-wave-barbershop",
+    "status": "publish",
+    "content": "Traditional barbershop.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "227 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 357-2592",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 225,
+    "title": "Fade 1 Barbershop",
+    "slug": "fade-1-barbershop",
+    "status": "publish",
+    "content": "Barbershop specializing in fades and modern cuts.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "295 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 231-1045",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 226,
+    "title": "Foxy Nails & Hair Spa",
+    "slug": "foxy-nails-hair-spa",
+    "status": "publish",
+    "content": "Nail salon and hair spa.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "315 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-6647",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 227,
+    "title": "Gorgeous Nails",
+    "slug": "gorgeous-nails",
+    "status": "publish",
+    "content": "Full-service nail salon.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "210 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 466-6220",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 228,
+    "title": "Lovely Nails & Spa",
+    "slug": "lovely-nails-spa",
+    "status": "publish",
+    "content": "Nail salon and spa services.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4414 Leisure Time Drive #3237, Diamondhead, MS 39525",
+    "phone": "(228) 222-4332",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 229,
+    "title": "Renewing Touch Therapies Day Spa",
+    "slug": "renewing-touch-therapies-day-spa",
+    "status": "publish",
+    "content": "Day spa offering massage therapy and body treatments.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "212 Main Street, Suite B, Bay St. Louis, MS 39520",
+    "phone": "(228) 231-1091",
+    "email": "",
+    "website": "https://www.renewingtouchtherapies.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 230,
+    "title": "Face and Body Advanced Aesthetics",
+    "slug": "face-and-body-advanced-aesthetics",
+    "status": "publish",
+    "content": "Medical aesthetics and skincare treatments.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "998 B Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 671-1808",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 231,
+    "title": "Bodega Adventure Rentals",
+    "slug": "bodega-adventure-rentals",
+    "status": "publish",
+    "content": "Bicycle, golf cart, paddleboard, and kayak rentals.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "111 Court Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 363-1290",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 232,
+    "title": "Bay St. Louis Municipal Harbor",
+    "slug": "bay-st-louis-municipal-harbor",
+    "status": "publish",
+    "content": "Full-service marina with slips, fuel, and pump-out station.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "5120 Pleasure Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 216-1644",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 233,
+    "title": "Anytime Fitness Bay St. Louis",
+    "slug": "anytime-fitness-bay-st-louis",
+    "status": "publish",
+    "content": "24/7 gym with cardio and strength equipment.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "614 Blue Meadow Rd, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-2511",
+    "email": "",
+    "website": "https://www.anytimefitness.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 234,
+    "title": "Buccaneer State Park",
+    "slug": "buccaneer-state-park",
+    "status": "publish",
+    "content": "State park with campsites, waterpark, nature trails, and beach access.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "1150 S Beach Blvd, Waveland, MS 39576",
+    "phone": "(228) 467-3822",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 235,
+    "title": "McLeod Water Park",
+    "slug": "mcleod-water-park",
+    "status": "publish",
+    "content": "Park with boat ramps, swimming, kayaking, fishing, and camping.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "8100 Texas Flat Rd, Kiln, MS 39556",
+    "phone": "(228) 467-1894",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 236,
+    "title": "Super 8 by Wyndham Bay St. Louis",
+    "slug": "super-8-by-wyndham-bay-st-louis",
+    "status": "publish",
+    "content": "Budget motel with free breakfast and WiFi.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "1000 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-0444",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 237,
+    "title": "Ramada by Wyndham Diamondhead",
+    "slug": "ramada-by-wyndham-diamondhead",
+    "status": "publish",
+    "content": "146 rooms including suites, indoor pool, hot tub, and bowling alley nearby.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "103 Live Oak Drive, Diamondhead, MS 39525",
+    "phone": "(228) 255-1300",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 238,
+    "title": "Diamondhead Family Medicine",
+    "slug": "diamondhead-family-medicine",
+    "status": "publish",
+    "content": "Primary care, pediatrics, walk-in clinic with lab and x-ray.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "45000 E Aloha Dr, Diamondhead, MS 39525",
+    "phone": "(228) 822-6006",
+    "email": "",
+    "website": "https://www.wearememorial.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 239,
+    "title": "Hancock Family Medicine",
+    "slug": "hancock-family-medicine",
+    "status": "publish",
+    "content": "Family medicine practice.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4433 Leisure Time Dr, Unit C, Diamondhead, MS 39525",
+    "phone": "(228) 222-4709",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 240,
+    "title": "Ochsner Health Center Hancock",
+    "slug": "ochsner-health-center-hancock",
+    "status": "publish",
+    "content": "Primary care, urgent care, and occupational health.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4540 Shepherd Square, Diamondhead, MS 39525",
+    "phone": "(228) 220-5200",
+    "email": "",
+    "website": "https://www.ochsner.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 241,
+    "title": "Newman Eye Clinic",
+    "slug": "newman-eye-clinic",
+    "status": "publish",
+    "content": "Optometry practice offering eye exams and vision care.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "299 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-1020",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 242,
+    "title": "Hancock Chiropractic, LLC",
+    "slug": "hancock-chiropractic-llc",
+    "status": "publish",
+    "content": "Chiropractic care and pain management.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "806 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 466-2900",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 243,
+    "title": "Powell Chiropractic Center",
+    "slug": "powell-chiropractic-center",
+    "status": "publish",
+    "content": "Patient-focused chiropractic care.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "826 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-1018",
+    "email": "",
+    "website": "https://www.powellchiro.net/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 244,
+    "title": "Hoda Chiropractic Clinic",
+    "slug": "hoda-chiropractic-clinic",
+    "status": "publish",
+    "content": "Chiropractic clinic.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4308 Park Ten Dr, Diamondhead, MS 39525",
+    "phone": "(228) 255-5328",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 245,
+    "title": "Smith Family Chiropractic PLLC",
+    "slug": "smith-family-chiropractic-pllc",
+    "status": "publish",
+    "content": "Family chiropractic practice.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "16331 Highway 603, Kiln, MS 39556",
+    "phone": "(228) 586-9343",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 246,
+    "title": "Accelerated Physical Therapy - Diamondhead",
+    "slug": "accelerated-physical-therapy-diamondhead",
+    "status": "publish",
+    "content": "Physical therapy and occupational health since 1995.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4405 E Aloha Dr, Suite D, Diamondhead, MS 39525",
+    "phone": "(228) 255-3888",
+    "email": "",
+    "website": "https://www.acceleratedpt-ms.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 247,
+    "title": "Encore Rehabilitation Diamondhead",
+    "slug": "encore-rehabilitation-diamondhead",
+    "status": "publish",
+    "content": "Physical therapy including orthopedics, sports rehab, and dry needling.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "5427 Gex Rd, Suite C, Diamondhead, MS 39525",
+    "phone": "(228) 222-4765",
+    "email": "",
+    "website": "https://www.encorerehab.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 248,
+    "title": "Waveland Pharmacy",
+    "slug": "waveland-pharmacy",
+    "status": "publish",
+    "content": "Independent community pharmacy with delivery service.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "112 Auderer Blvd, Waveland, MS 39576",
+    "phone": "(228) 463-1055",
+    "email": "",
+    "website": "https://www.wavelandpharmacy.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 249,
+    "title": "Gulf Coast Mental Health Center",
+    "slug": "gulf-coast-mental-health-center",
+    "status": "publish",
+    "content": "Community mental health center providing counseling and psychiatric services.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "819 Central Ave, Suite B, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-1881",
+    "email": "",
+    "website": "https://www.gcmhc.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 250,
+    "title": "Holy Trinity Catholic School",
+    "slug": "holy-trinity-catholic-school",
+    "status": "publish",
+    "content": "Catholic school serving Pre-K1 through 6th grade since 1960.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "301 S Second St, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5158",
+    "email": "",
+    "website": "https://www.holytrinitybsl.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 251,
+    "title": "Melange Dance Company",
+    "slug": "melange-dance-company",
+    "status": "publish",
+    "content": "Dance studio teaching ballet, tap, jazz, hip-hop, and tumbling.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "16940 Kapalama Dr, Diamondhead, MS 39525",
+    "phone": "(228) 234-7983",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 252,
+    "title": "The Peoples Bank - Diamondhead",
+    "slug": "the-peoples-bank-diamondhead",
+    "status": "publish",
+    "content": "Regional bank with 17 Gulf Coast branches. Full-service bank branch.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "5429 W Aloha Dr, Diamondhead, MS 39525",
+    "phone": "(228) 435-5511",
+    "email": "",
+    "website": "https://www.thepeoples.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 253,
+    "title": "The First Bank - Bay St. Louis",
+    "slug": "the-first-bank-bay-st-louis",
+    "status": "publish",
+    "content": "Multi-state financial institution serving Bay St. Louis since 1967.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "800 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-9211",
+    "email": "",
+    "website": "https://www.firstbankms.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 254,
+    "title": "The First Bank - Diamondhead",
+    "slug": "the-first-bank-diamondhead",
+    "status": "publish",
+    "content": "Full-service bank branch since 1992.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4402 Kalani Dr, Diamondhead, MS 39525",
+    "phone": "(228) 463-2120",
+    "email": "",
+    "website": "https://www.firstbankms.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 255,
+    "title": "Community Bank",
+    "slug": "community-bank",
+    "status": "publish",
+    "content": "Full-service bank with foreign currency exchange and notary services.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "541 Main St, Bay St. Louis, MS 39520",
+    "phone": "(228) 797-5230",
+    "email": "",
+    "website": "https://www.communitybank.net/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 256,
+    "title": "Keesler Federal Credit Union",
+    "slug": "keesler-federal-credit-union",
+    "status": "publish",
+    "content": "Mississippi's largest credit union.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4402 E Aloha Dr, Suites 3-4, Diamondhead, MS 39525",
+    "phone": "(228) 385-5500",
+    "email": "",
+    "website": "https://www.kfcu.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 257,
+    "title": "Gerald W. Rigby, CPA",
+    "slug": "gerald-w-rigby-cpa",
+    "status": "publish",
+    "content": "Full-service CPA firm since 1994.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "724 Dunbar Ave, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5744",
+    "email": "",
+    "website": "https://www.rigbycpa.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 258,
+    "title": "Mike Meyers State Farm",
+    "slug": "mike-meyers-state-farm",
+    "status": "publish",
+    "content": "Insurance and financial services since 1989.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "835 Highway 90, Suite 16, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-5011",
+    "email": "",
+    "website": "https://www.mikemeyers.us/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 259,
+    "title": "Kelly Cannon State Farm",
+    "slug": "kelly-cannon-state-farm",
+    "status": "publish",
+    "content": "Insurance services since 1989.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "137 Highway 90, Waveland, MS 39576",
+    "phone": "(228) 467-2323",
+    "email": "",
+    "website": "https://www.kellycannon.net/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 260,
+    "title": "Scotti Catalano State Farm",
+    "slug": "scotti-catalano-state-farm",
+    "status": "publish",
+    "content": "Insurance and financial services.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "5401 Indian Hill Blvd, Diamondhead, MS 39525",
+    "phone": "(228) 222-4831",
+    "email": "",
+    "website": "https://www.scotticatalano.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Diamondhead"
     ],
     "tags": [],
     "deal_title": "",
