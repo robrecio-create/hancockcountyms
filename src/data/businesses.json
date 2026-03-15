@@ -6948,5 +6948,629 @@
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
+  },
+  {
+    "id": 261,
+    "title": "George Scanlan Blair Law Firm, PLLC",
+    "slug": "george-scanlan-blair-law-firm",
+    "status": "publish",
+    "content": "Criminal defense, family law, immigration, trusts and estates attorney serving Hancock County.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "532 Main Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 351-0039",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["lawyer", "attorney", "criminal defense", "family law"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 262,
+    "title": "Yarborough Law Firm, PLLC",
+    "slug": "yarborough-law-firm",
+    "status": "publish",
+    "content": "Civil litigation firm handling personal injury, construction disputes, and insurance bad faith cases. Gary Yarborough Jr. also serves as Hancock County Attorney.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "845 Highway 90 Suite B, Bay St. Louis, MS 39520",
+    "phone": "(228) 688-0708",
+    "email": "",
+    "website": "https://www.yarboroughlaw.co/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["lawyer", "attorney", "civil litigation", "personal injury"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 263,
+    "title": "Casano Law Firm",
+    "slug": "casano-law-firm",
+    "status": "publish",
+    "content": "Established in 2006, specializing in residential and commercial real estate closings, title searches, and document preparation.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4403 West Aloha Drive, Diamondhead, MS 39525",
+    "phone": "(228) 255-0035",
+    "email": "",
+    "website": "https://www.casanolawfirm.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["lawyer", "attorney", "real estate law", "title search"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 264,
+    "title": "Kyle Wynn & Associates, PLLC",
+    "slug": "kyle-wynn-associates",
+    "status": "publish",
+    "content": "Elder law and estate planning firm serving Diamondhead and Hancock County.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4321-C Gex Road, Diamondhead, MS 39525",
+    "phone": "",
+    "email": "",
+    "website": "https://estateplanningattorneyneardiamondhead.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["lawyer", "attorney", "elder law", "estate planning"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 265,
+    "title": "H&R Block - Diamondhead",
+    "slug": "hr-block-diamondhead",
+    "status": "publish",
+    "content": "National tax preparation chain with local office offering in-person and virtual tax prep services.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4402 East Aloha Drive, Suite 2, Diamondhead, MS 39525",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hrblock.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["tax preparation", "accounting", "tax services"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 266,
+    "title": "C & C Plumbing",
+    "slug": "c-and-c-plumbing",
+    "status": "publish",
+    "content": "Over 53 years in business serving Diamondhead, Bay St. Louis, Waveland, Kiln, and Pass Christian.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4454 Leisure Time Drive, Diamondhead, MS 39525",
+    "phone": "(228) 363-3529",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["plumber", "plumbing"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 267,
+    "title": "AC Plumbing, LLC",
+    "slug": "ac-plumbing",
+    "status": "publish",
+    "content": "Plumbing services in Waveland and surrounding Hancock County areas.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "114 Yarborough Place, Waveland, MS 39576",
+    "phone": "(228) 216-5707",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": ["plumber", "plumbing"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 268,
+    "title": "F&M Plumbing Contractors",
+    "slug": "fm-plumbing-contractors",
+    "status": "publish",
+    "content": "Plumbing contractor serving the Kiln area of Hancock County.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "16081 Magnolia Street, Kiln, MS 39556",
+    "phone": "(228) 216-5900",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Kiln"
+    ],
+    "tags": ["plumber", "plumbing", "contractor"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 269,
+    "title": "Bell's Plumbing",
+    "slug": "bells-plumbing",
+    "status": "publish",
+    "content": "Plumbing services in Waveland and surrounding areas.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "802 6th Street, Waveland, MS 39576",
+    "phone": "(228) 467-6264",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": ["plumber", "plumbing"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 270,
+    "title": "Lott's Electrical Services",
+    "slug": "lotts-electrical-services",
+    "status": "publish",
+    "content": "Electrician services, appliance repair, and EV charging station installation in Hancock County.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "Bayview Court, Bay St. Louis, MS 39520",
+    "phone": "(228) 671-7641",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["electrician", "electrical", "ev charging"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 271,
+    "title": "Rusco Electric",
+    "slug": "rusco-electric",
+    "status": "publish",
+    "content": "Third-generation electrical contractor with 30+ years experience, specializing in generators, boat lift wiring, and hot tub wiring.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "",
+    "email": "",
+    "website": "https://ruscoelectric.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["electrician", "electrical", "generator", "contractor"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 272,
+    "title": "Top Notch AC & Heat LLC",
+    "slug": "top-notch-ac-and-heat",
+    "status": "publish",
+    "content": "Locally owned HVAC company providing 24/7 emergency repair, installations, and maintenance on the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "7341 Analii Street, Diamondhead, MS 39525",
+    "phone": "(228) 870-6515",
+    "email": "",
+    "website": "https://www.topnotch-ac-heat.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["hvac", "air conditioning", "heating", "ac repair"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 273,
+    "title": "Affordable Roofs and Gutters",
+    "slug": "affordable-roofs-and-gutters",
+    "status": "publish",
+    "content": "40+ years experience in roof installations, repairs, replacements, gutters, and storm damage restoration.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "Diamondhead, MS 39525",
+    "phone": "(985) 640-4810",
+    "email": "",
+    "website": "https://www.affordableroofsandgutters.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["roofing", "gutters", "storm damage", "contractor"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 274,
+    "title": "Husband Roofing & Contracting",
+    "slug": "husband-roofing-and-contracting",
+    "status": "publish",
+    "content": "Expert roofing and contracting including commercial roofing, gutter solutions, and storm damage restoration.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "Diamondhead, MS 39525",
+    "phone": "",
+    "email": "",
+    "website": "https://husbandroofing.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["roofing", "contractor", "gutters", "storm damage"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 275,
+    "title": "Davis Landscaping, LLC",
+    "slug": "davis-landscaping",
+    "status": "publish",
+    "content": "BBB A+ rated landscaping company serving Hancock, Harrison, Jackson, and Pearl River counties.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "619 Citizen Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 313-6323",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["landscaping", "lawn care", "yard maintenance"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 276,
+    "title": "Preferred Lawn & Landscape",
+    "slug": "preferred-lawn-and-landscape",
+    "status": "publish",
+    "content": "Professional and affordable outdoor lawn and landscape services on the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "PO Box 6475, Diamondhead, MS 39525",
+    "phone": "(228) 216-5452",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["landscaping", "lawn care", "yard maintenance"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 277,
+    "title": "Ellis Realty",
+    "slug": "ellis-realty",
+    "status": "publish",
+    "content": "Mississippi Gulf Coast real estate experts since 1950, serving Bay St. Louis and surrounding areas.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "114 Main Street, Bay St. Louis, MS 39520",
+    "phone": "(228) 284-4662",
+    "email": "",
+    "website": "https://ellisrealtyms.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["real estate", "realtor", "homes for sale"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 278,
+    "title": "Coast Time Realty",
+    "slug": "coast-time-realty",
+    "status": "publish",
+    "content": "Independent full-service real estate firm founded in 2010, offering seller and buyer representation, investment purchasing, and property management.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "10381 MS-603, Suite B, Bay St. Louis, MS 39520",
+    "phone": "(228) 493-2852",
+    "email": "",
+    "website": "https://coasttimerealty.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["real estate", "realtor", "property management"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 279,
+    "title": "Avery Gilliam Real Estate",
+    "slug": "avery-gilliam-real-estate",
+    "status": "publish",
+    "content": "Real estate office serving the Diamondhead area.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4402 East Aloha Drive, Diamondhead, MS 39525",
+    "phone": "(228) 255-4009",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["real estate", "realtor"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 280,
+    "title": "Diamondhead Properties",
+    "slug": "diamondhead-properties",
+    "status": "publish",
+    "content": "Real estate services specializing in the Diamondhead community.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "Diamondhead, MS 39525",
+    "phone": "(228) 216-1740",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["real estate", "realtor"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 281,
+    "title": "Gulfshore Properties LLC",
+    "slug": "gulfshore-properties",
+    "status": "publish",
+    "content": "Real estate services in Waveland and surrounding Hancock County areas.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "2057 Waveland Avenue, Waveland, MS 39576",
+    "phone": "(228) 467-2772",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": ["real estate", "realtor"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 282,
+    "title": "Osceola Property Management, LLC",
+    "slug": "osceola-property-management",
+    "status": "publish",
+    "content": "One of the largest property managers on the Gulf Coast, specializing in single family, duplex, and small multi-unit homes.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "732 Highway 90, Bay St. Louis, MS 39520",
+    "phone": "(228) 467-4171",
+    "email": "",
+    "website": "https://www.osceolapm.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["property management", "rentals", "real estate"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 283,
+    "title": "Alfonso Property Management",
+    "slug": "alfonso-property-management",
+    "status": "publish",
+    "content": "Full-service property management since 1958 covering rentals across the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "4300 Gex Road, Diamondhead, MS 39525",
+    "phone": "(228) 255-5288",
+    "email": "",
+    "website": "https://www.alfonsopm.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Diamondhead"
+    ],
+    "tags": ["property management", "rentals", "real estate"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 284,
+    "title": "Blue Water Property Managers",
+    "slug": "blue-water-property-managers",
+    "status": "publish",
+    "content": "Property management services including rent rate analysis, tenant placement, and maintenance coordination.",
+    "excerpt": "",
+    "post_date": "2026-03-15T12:00:00",
+    "address": "Bay St. Louis, MS 39520",
+    "phone": "",
+    "email": "",
+    "website": "https://bluewaterpropertymanagers.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": ["property management", "rentals", "real estate"],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
   }
 ]
