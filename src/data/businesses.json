@@ -2848,7 +2848,7 @@
     "title": "Lagniappe Presbyterian Church",
     "slug": "lagniappe-presbyterian-church",
     "status": "publish",
-    "content": "Presbyterian church offering a little something extra \u2014 lagniappe.",
+    "content": "Presbyterian church offering a little something extra — lagniappe.",
     "excerpt": "",
     "post_date": "2026-03-12 00:00:00",
     "address": "203 Central Ave, Bay St. Louis, MS 39520",
@@ -3891,9 +3891,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Clothing & Accessories",
-      "Vintage & Thrift"
+      "Shopping & Retail"
     ],
     "location": [
       "Bay St. Louis"
@@ -3919,9 +3917,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Bars & Nightlife",
-      "American"
+      "Restaurants & Dining",
+      "Bars & Nightlife"
     ],
     "location": [
       "Bay St. Louis"
@@ -3973,8 +3970,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Italian"
+      "Restaurants & Dining"
     ],
     "location": [
       "Bay St. Louis"
@@ -4000,9 +3996,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Bakeries",
-      "Coffee & Tea",
-      "Breakfast & Brunch"
+      "Restaurants & Dining"
     ],
     "location": [
       "Bay St. Louis"
@@ -4028,9 +4022,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Breakfast & Brunch",
-      "American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Bay St. Louis"
@@ -4056,9 +4048,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Mexican",
-      "Latin American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Bay St. Louis"
@@ -4084,9 +4074,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Mexican",
-      "American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Bay St. Louis"
@@ -4112,8 +4100,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Fitness",
-      "Yoga & Pilates"
+      "Outdoors & Recreation"
     ],
     "location": [
       "Bay St. Louis"
@@ -4139,8 +4126,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Hair Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Bay St. Louis"
@@ -4166,9 +4152,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Home Decor",
-      "Furniture"
+      "Shopping & Retail"
     ],
     "location": [
       "Bay St. Louis"
@@ -4194,8 +4178,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Clothing & Accessories"
+      "Shopping & Retail"
     ],
     "location": [
       "Bay St. Louis"
@@ -4221,9 +4204,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Beauty & Spas",
-      "Gifts & Souvenirs"
+      "Shopping & Retail",
+      "Beauty & Personal Care"
     ],
     "location": [
       "Bay St. Louis"
@@ -4249,7 +4231,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Bay St. Louis"
@@ -4275,7 +4257,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Bay St. Louis"
@@ -4301,8 +4283,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Pediatrics"
+      "Health & Medical"
     ],
     "location": [
       "Bay St. Louis"
@@ -4354,8 +4335,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Dentists"
+      "Health & Medical"
     ],
     "location": [
       "Bay St. Louis"
@@ -4381,8 +4361,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Physical Therapy"
+      "Health & Medical"
     ],
     "location": [
       "Bay St. Louis"
@@ -4408,8 +4387,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Steakhouses"
+      "Restaurants & Dining"
     ],
     "location": [
       "Bay St. Louis"
@@ -4424,7 +4402,7 @@
     "title": "Keller Williams MS Gulf Coast - Bay St. Louis",
     "slug": "keller-williams-ms-gulf-coast-bay-st-louis",
     "status": "publish",
-    "content": "Keller Williams Mississippi Gulf Coast \u2013 Bay St. Louis is a full-service real estate brokerage serving Hancock County and the surrounding Gulf Coast communities. With experienced agents specializing in residential, commercial, and waterfront properties, it's one of the leading real estate firms serving the Bay St. Louis and Waveland markets.",
+    "content": "Keller Williams Mississippi Gulf Coast – Bay St. Louis is a full-service real estate brokerage serving Hancock County and the surrounding Gulf Coast communities. With experienced agents specializing in residential, commercial, and waterfront properties, it's one of the leading real estate firms serving the Bay St. Louis and Waveland markets.",
     "excerpt": "",
     "post_date": "2026-03-12",
     "address": "105 Old Spanish Trail, Bay St. Louis, MS 39520",
@@ -4461,8 +4439,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging",
-      "Vacation Rentals"
+      "Accommodations"
     ],
     "location": [
       "Bay St. Louis"
@@ -4488,8 +4465,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Physical Therapy"
+      "Health & Medical"
     ],
     "location": [
       "Bay St. Louis"
@@ -4515,9 +4491,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "American",
-      "Seafood"
+      "Restaurants & Dining"
     ],
     "location": [
       "Waveland"
@@ -4543,8 +4517,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Home Services",
-      "Pest Control"
+      "Home Services & Contractors"
     ],
     "location": [
       "Waveland"
@@ -4570,8 +4543,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Home Improvement"
+      "Shopping & Retail",
+      "Home Services & Contractors"
     ],
     "location": [
       "Waveland"
@@ -4597,8 +4570,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Tools & Equipment"
+      "Shopping & Retail"
     ],
     "location": [
       "Waveland"
@@ -4624,7 +4596,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Waveland"
@@ -4650,9 +4622,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Vintage & Thrift",
-      "Community Services"
+      "Shopping & Retail",
+      "Community Services & Nonprofits"
     ],
     "location": [
       "Waveland"
@@ -4678,9 +4649,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Furniture",
-      "Electronics"
+      "Shopping & Retail"
     ],
     "location": [
       "Waveland"
@@ -4706,8 +4675,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Furniture"
+      "Shopping & Retail"
     ],
     "location": [
       "Waveland"
@@ -4733,8 +4701,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Italian"
+      "Restaurants & Dining"
     ],
     "location": [
       "Diamondhead"
@@ -4760,9 +4727,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Fast Food",
-      "American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Diamondhead"
@@ -4788,7 +4753,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Fitness"
+      "Outdoors & Recreation"
     ],
     "location": [
       "Diamondhead"
@@ -4814,8 +4779,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Urgent Care"
+      "Health & Medical"
     ],
     "location": [
       "Diamondhead"
@@ -4841,8 +4805,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Home Improvement"
+      "Shopping & Retail",
+      "Home Services & Contractors"
     ],
     "location": [
       "Diamondhead"
@@ -4868,8 +4832,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Physical Therapy"
+      "Health & Medical"
     ],
     "location": [
       "Diamondhead"
@@ -4895,9 +4858,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Recreation",
-      "Tours & Activities",
-      "Outdoor Adventures"
+      "Outdoors & Recreation",
+      "Arts & Entertainment"
     ],
     "location": [
       "Kiln"
@@ -4923,8 +4885,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Recreation",
-      "Tours & Activities"
+      "Outdoors & Recreation",
+      "Arts & Entertainment"
     ],
     "location": [
       "Kiln"
@@ -4950,9 +4912,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Mexican",
-      "Latin American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Kiln"
@@ -4978,9 +4938,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "American",
-      "Breakfast & Brunch"
+      "Restaurants & Dining"
     ],
     "location": [
       "Kiln"
@@ -5006,9 +4964,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "American",
-      "Fast Food"
+      "Restaurants & Dining"
     ],
     "location": [
       "Kiln"
@@ -5034,8 +4990,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Seafood",
+      "Restaurants & Dining",
       "Bars & Nightlife"
     ],
     "location": [
@@ -5062,8 +5017,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Convenience Stores",
-      "Gas Stations"
+      "Shopping & Retail",
+      "Auto Services"
     ],
     "location": [
       "Kiln"
@@ -5089,9 +5044,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Sandwiches",
-      "Fast Food"
+      "Restaurants & Dining"
     ],
     "location": [
       "Kiln"
@@ -5117,8 +5070,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Seafood",
+      "Restaurants & Dining",
       "Bars & Nightlife"
     ],
     "location": [
@@ -6970,7 +6922,12 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["lawyer", "attorney", "criminal defense", "family law"],
+    "tags": [
+      "lawyer",
+      "attorney",
+      "criminal defense",
+      "family law"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -6996,7 +6953,12 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["lawyer", "attorney", "civil litigation", "personal injury"],
+    "tags": [
+      "lawyer",
+      "attorney",
+      "civil litigation",
+      "personal injury"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7022,7 +6984,12 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["lawyer", "attorney", "real estate law", "title search"],
+    "tags": [
+      "lawyer",
+      "attorney",
+      "real estate law",
+      "title search"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7048,7 +7015,12 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["lawyer", "attorney", "elder law", "estate planning"],
+    "tags": [
+      "lawyer",
+      "attorney",
+      "elder law",
+      "estate planning"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7074,7 +7046,11 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["tax preparation", "accounting", "tax services"],
+    "tags": [
+      "tax preparation",
+      "accounting",
+      "tax services"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7100,7 +7076,10 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["plumber", "plumbing"],
+    "tags": [
+      "plumber",
+      "plumbing"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7126,7 +7105,10 @@
     "location": [
       "Waveland"
     ],
-    "tags": ["plumber", "plumbing"],
+    "tags": [
+      "plumber",
+      "plumbing"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7152,7 +7134,11 @@
     "location": [
       "Kiln"
     ],
-    "tags": ["plumber", "plumbing", "contractor"],
+    "tags": [
+      "plumber",
+      "plumbing",
+      "contractor"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7178,7 +7164,10 @@
     "location": [
       "Waveland"
     ],
-    "tags": ["plumber", "plumbing"],
+    "tags": [
+      "plumber",
+      "plumbing"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7204,7 +7193,11 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["electrician", "electrical", "ev charging"],
+    "tags": [
+      "electrician",
+      "electrical",
+      "ev charging"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7230,7 +7223,12 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["electrician", "electrical", "generator", "contractor"],
+    "tags": [
+      "electrician",
+      "electrical",
+      "generator",
+      "contractor"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7256,7 +7254,12 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["hvac", "air conditioning", "heating", "ac repair"],
+    "tags": [
+      "hvac",
+      "air conditioning",
+      "heating",
+      "ac repair"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7282,7 +7285,12 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["roofing", "gutters", "storm damage", "contractor"],
+    "tags": [
+      "roofing",
+      "gutters",
+      "storm damage",
+      "contractor"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7308,7 +7316,12 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["roofing", "contractor", "gutters", "storm damage"],
+    "tags": [
+      "roofing",
+      "contractor",
+      "gutters",
+      "storm damage"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7334,7 +7347,11 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["landscaping", "lawn care", "yard maintenance"],
+    "tags": [
+      "landscaping",
+      "lawn care",
+      "yard maintenance"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7360,7 +7377,11 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["landscaping", "lawn care", "yard maintenance"],
+    "tags": [
+      "landscaping",
+      "lawn care",
+      "yard maintenance"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7386,7 +7407,11 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["real estate", "realtor", "homes for sale"],
+    "tags": [
+      "real estate",
+      "realtor",
+      "homes for sale"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7412,7 +7437,11 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["real estate", "realtor", "property management"],
+    "tags": [
+      "real estate",
+      "realtor",
+      "property management"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7438,7 +7467,10 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["real estate", "realtor"],
+    "tags": [
+      "real estate",
+      "realtor"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7464,7 +7496,10 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["real estate", "realtor"],
+    "tags": [
+      "real estate",
+      "realtor"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7490,7 +7525,10 @@
     "location": [
       "Waveland"
     ],
-    "tags": ["real estate", "realtor"],
+    "tags": [
+      "real estate",
+      "realtor"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7516,7 +7554,11 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["property management", "rentals", "real estate"],
+    "tags": [
+      "property management",
+      "rentals",
+      "real estate"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7542,7 +7584,11 @@
     "location": [
       "Diamondhead"
     ],
-    "tags": ["property management", "rentals", "real estate"],
+    "tags": [
+      "property management",
+      "rentals",
+      "real estate"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
@@ -7568,7 +7614,11 @@
     "location": [
       "Bay St. Louis"
     ],
-    "tags": ["property management", "rentals", "real estate"],
+    "tags": [
+      "property management",
+      "rentals",
+      "real estate"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
