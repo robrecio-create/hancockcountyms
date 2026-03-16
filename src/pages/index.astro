@@ -31,7 +31,22 @@ function getMonthDay(dateStr: string) {
 }
 ---
 
-<Layout title="Hancock County MS — Discover Local Businesses & Community">
+<Layout
+  title="Hancock County MS — Find Local Coupons and Businesses in Hancock County"
+  description="Discover local businesses, restaurants, services, and events across Hancock County, Mississippi — Bay St. Louis, Waveland, Diamondhead, Kiln, and Pearlington."
+>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "HancockCountyMS.com",
+    "url": "https://www.hancockcountyms.com",
+    "description": "Local business directory for Hancock County, Mississippi",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.hancockcountyms.com/listings/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  })} />
 
   <Header activePage="Home" />
 
