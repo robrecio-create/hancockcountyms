@@ -7596,5 +7596,106 @@
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
+  },
+  {
+    "id": 285,
+    "title": "Trapani's Eatery",
+    "slug": "trapanis-eatery",
+    "status": "publish",
+    "content": "Trapani's Eatery is a beloved Italian-Creole restaurant in Bay St. Louis, known for its fresh seafood, handmade pastas, and Sicilian family recipes. The intimate setting in a renovated historic building offers a romantic atmosphere. Popular dishes include the seafood platter, oysters, and house-made desserts. Reservations recommended.",
+    "phone": "(228) 467-8570",
+    "website": "https://www.trapanis.net",
+    "address": "116 N Beach Blvd, Bay St. Louis, MS 39520",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
+  },
+  {
+    "id": 286,
+    "title": "100 Men Hall",
+    "slug": "100-men-hall",
+    "status": "publish",
+    "content": "100 Men Hall is a historic juke joint and music venue in Bay St. Louis, dating back to 1894. Originally built as a benevolent society hall, it has hosted legendary performances and continues as a live music destination. The venue books blues, jazz, rock, and regional acts in an authentic, intimate setting.",
+    "phone": "(228) 466-4001",
+    "website": "https://www.100menhall.com",
+    "address": "303 Union St, Bay St. Louis, MS 39520",
+    "categories": [
+      "Arts & Entertainment",
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
+  },
+  {
+    "id": 287,
+    "title": "The Mockingbird Cafe",
+    "slug": "the-mockingbird-cafe",
+    "status": "publish",
+    "content": "The Mockingbird Cafe is a charming brunch and lunch spot in downtown Bay St. Louis. The eclectic menu features Southern comfort food, creative sandwiches, fresh salads, and homemade baked goods. The quirky, art-filled interior reflects the town's creative spirit. Live music on weekends.",
+    "phone": "(228) 467-8009",
+    "website": "https://www.themockingbirdcafe.com",
+    "address": "110 S Second St, Bay St. Louis, MS 39520",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
+  },
+  {
+    "id": 288,
+    "title": "Starfish Cafe",
+    "slug": "starfish-cafe",
+    "status": "publish",
+    "content": "Starfish Cafe is a casual waterfront restaurant in Waveland serving breakfast, lunch, and dinner. The menu features Southern classics, seafood, and comfort food favorites. The laid-back atmosphere and bayou views make it a local favorite.",
+    "phone": "(228) 466-4100",
+    "website": "",
+    "address": "212 N Beach Blvd, Waveland, MS 39576",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Waveland"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
+  },
+  {
+    "id": 289,
+    "title": "Cuz's Seafood & Oyster Bar",
+    "slug": "cuzs-seafood-oyster-bar",
+    "status": "publish",
+    "content": "Cuz's Seafood & Oyster Bar is a no-frills seafood joint in Bay St. Louis famous for raw and chargrilled oysters, boiled seafood, po'boys, and cold beer. The casual, unpretentious vibe and fresh Gulf seafood have made it a local institution for decades.",
+    "phone": "(228) 467-9978",
+    "website": "",
+    "address": "108 Ulman Ave, Bay St. Louis, MS 39520",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Bay St. Louis"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
   }
 ]
