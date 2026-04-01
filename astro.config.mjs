@@ -3,8 +3,9 @@ import vercel from '@astrojs/vercel';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://hancockcountyms.com',
+  site: 'https://www.hancockcountyms.com',
   output: 'static',
+  trailingSlash: 'always',
   adapter: vercel(),
   integrations: [sitemap()],
 });
