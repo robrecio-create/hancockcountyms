@@ -5,12 +5,18 @@ import Footer from '../../components/Footer.astro';
 
 const guides = [
   { slug: 'best-restaurants-bay-st-louis', title: 'Best Restaurants in Bay St. Louis', town: 'Bay St. Louis', category: 'Food & Dining' },
+  { slug: 'best-restaurants-waveland', title: 'Best Restaurants in Waveland', town: 'Waveland', category: 'Food & Dining' },
+  { slug: 'best-restaurants-diamondhead', title: 'Best Restaurants in Diamondhead', town: 'Diamondhead', category: 'Food & Dining' },
   { slug: 'best-seafood-hancock-county', title: 'Best Seafood in Hancock County', town: 'Countywide', category: 'Food & Dining' },
   { slug: 'things-to-do-bay-st-louis', title: 'Things to Do in Bay St. Louis', town: 'Bay St. Louis', category: 'Activities' },
   { slug: 'things-to-do-waveland', title: 'Things to Do in Waveland', town: 'Waveland', category: 'Activities' },
+  { slug: 'things-to-do-diamondhead', title: 'Things to Do in Diamondhead', town: 'Diamondhead', category: 'Activities' },
+  { slug: 'things-to-do-kiln', title: 'Things to Do in Kiln', town: 'Kiln', category: 'Activities' },
   { slug: 'family-activities-hancock-county', title: 'Family Activities in Hancock County', town: 'Countywide', category: 'Activities' },
-  { slug: 'guide-diamondhead', title: "Diamondhead: Hancock County's Planned Community", town: 'Diamondhead', category: 'Town Guide' },
   { slug: 'hidden-gems-hancock-county', title: 'Hidden Gems in Hancock County', town: 'Countywide', category: 'Exploration' },
+  { slug: 'where-to-watch-sunset-hancock-county', title: 'Where to Watch the Sunset in Hancock County', town: 'Countywide', category: 'Exploration' },
+  { slug: 'guide-pearlington', title: "Pearlington: Hancock County's Quiet Gem", town: 'Pearlington', category: 'Town Guide' },
+  { slug: 'arts-and-culture-bay-st-louis', title: 'Arts & Culture in Bay St. Louis', town: 'Bay St. Louis', category: 'Arts & Culture' },
 ];
 
 const categories = [...new Set(guides.map(g => g.category))];
